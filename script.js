@@ -17,7 +17,7 @@ startBtnEl.addEventListener('click', function (){
     setTimeout(function() {
         document.body.style.transition = "background-image 2s ease";
         document.body.style.backgroundImage = "url('img/hbd-main2.gif')"; 
-        document.body.style.backgroundSize = "cover"; 
+        document.body.style.backgroundSize = "95%"; 
         document.body.style.backgroundPosition = "center"; 
         document.body.style.backgroundRepeat = "no-repeat"; 
     }, 1500); 
