@@ -23,7 +23,7 @@ startBtnEl.addEventListener('click', function (){
     }, 1500); 
 
     setTimeout(function() {
-        alert('Wishing you a happy 21st birthday, May all your dreams and wishes come true!. I love you always <3')
+        alert('Wishing you a happy 21st birthday, May all your dreams and wishes come true!. Panjang umur, sehat selalu, sukses kuliahnya, and I love you always <3')
     }, 16000);
 });
 
